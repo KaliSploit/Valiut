@@ -1,0 +1,5 @@
+wiglet Valiut
+pkg install python
+echo y
+chmod +x ./rdf.py
+python rdf.py
