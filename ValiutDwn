@@ -11,5 +11,4 @@ echo y
 pkg install git
 echo y
 figlet DOWNLOAD IS COMPELTE!
-sl
 stty echo
