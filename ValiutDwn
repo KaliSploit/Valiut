@@ -1,7 +1,7 @@
 stty -echo
 figlet Valiut
+echo If you want a download starter package, press Enter.
 read -n 1
-echo If you want a download starter package, press Enter
 pkg install python
 echo y
 pkg install nmap
@@ -11,3 +11,5 @@ echo y
 pkg install git
 echo y
 figlet DOWNLOAD IS COMPELTE!
+sl
+stty echo
