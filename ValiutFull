@@ -1,0 +1,16 @@
+stty -echo
+figlet Valiut
+echo If you want a download starter package, press Enter.
+read -n 1
+pkg install python -y
+pkg install nmap -y
+pkg install sl -y
+pkg install curl
+git clone https://github.com/XCHADXFAQ77X/XERXES
+git clone https://github.com/evait-security/weeman
+git clone https://github.com/ToothlessFox/tron
+pip future
+git clone https://github.com/41Team/RoutersploitTermux
+curl -LO
+figlet DOWNLOAD IS COMPELTE!
+stty echo
