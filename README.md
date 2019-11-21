@@ -2,9 +2,9 @@
 
 
 
-
+pkg install figlet
 pkg install git
-git clone https://github.com/Duas-os/Valiut
+git clone https://github.com/KaliSploit/Valiut
 cd Valiut
 chmod +x ./Valiut
 ./Valiut
