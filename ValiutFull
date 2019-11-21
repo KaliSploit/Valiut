@@ -3,6 +3,8 @@ figlet Valiut
 echo If you want a download starter package, press Enter.
 read -n 1
 pkg install python -y
+pkg install python2 -y
+pkg install python3 -y
 pkg install nmap -y
 pkg install sl -y
 pkg install curl
